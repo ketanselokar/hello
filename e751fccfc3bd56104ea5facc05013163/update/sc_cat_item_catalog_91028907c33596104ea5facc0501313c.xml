@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="test">e8f14dc3c33596104ea5facc05013194</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-15 12:58:55</sys_created_on>
+        <sys_id>91028907c33596104ea5facc0501313c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.test</sys_name>
+        <sys_package display_value="testt" source="x_761474_testt">e751fccfc3bd56104ea5facc05013163</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testt">e751fccfc3bd56104ea5facc05013163</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_91028907c33596104ea5facc0501313c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-15 12:58:55</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
