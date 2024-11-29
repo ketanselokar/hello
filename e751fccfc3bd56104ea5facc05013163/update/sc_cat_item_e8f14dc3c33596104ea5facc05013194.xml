@@ -58,7 +58,7 @@
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
-        <short_description>rr</short_description>
+        <short_description>rrr</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -66,21 +66,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-11-15 12:58:55</sys_created_on>
         <sys_id>e8f14dc3c33596104ea5facc05013194</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>test</sys_name>
         <sys_package display_value="testt" source="x_761474_testt">e751fccfc3bd56104ea5facc05013163</sys_package>
         <sys_policy/>
         <sys_scope display_value="testt">e751fccfc3bd56104ea5facc05013163</sys_scope>
         <sys_update_name>sc_cat_item_e8f14dc3c33596104ea5facc05013194</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-11-26 11:34:47</sys_updated_on>
+        <sys_updated_on>2024-11-28 11:07:02</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>6</version>
+        <version>7</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
